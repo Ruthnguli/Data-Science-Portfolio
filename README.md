@@ -5,6 +5,9 @@
 2. [Spam Detection](https://github.com/Ruthnguli/Titanic-Prediction-Spambase-Detection/blob/main/Ruth_DS_ML_Naive_Bayes_Exploratory_Data_Analysis.ipynb):Utilized Naive Bayes Classifier to develop a technique that can detect spam emails.
 3. [Hypothyroidism Prediction](https://github.com/Ruthnguli/Hypothyroidism-prediction/blob/main/Ruth_NGULI_DS_ML_WK3_IP.ipynb): Utilized python to develop a machine learning model that can predict whether a patient has hypothyroidism on given features.
 
+## Clustering
+1. [Customer brand clustering](url)file:///C:/Users/LENOVO/Desktop/R-prog/IP_WK_2_R_PROG_CLUSTERING.pdf: Using R programming to perform K means, DBSCAN, Hierarchical clustering
+
 ### Association
 1. [Supermarket item association](https://github.com/Ruthnguli/Unsupervised-Leraning-R/blob/main/part_3_IP_Association_Rules_.pdf): Utilized R programming to perform association analysis on supermarket data of sold items using association rules.
 
