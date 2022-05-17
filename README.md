@@ -16,8 +16,8 @@
 2. [Shared electric car](https://github.com/Ruthnguli/Exploratory-Data-Analysis2/blob/main/Ruth_Nguli_week_4_IP_DS_Core.ipynb): Ued python to perfom Exploratory Data Analysis on shared electric car to determine likely days to use a shared electric car.
 
 ## Certificates
-**Data Science - Moringa School Completed 13th May 2022**
-**Data Analysis - Udacity in progress**
+**Data Science - Moringa School Completed 13th May 2022** | 
+**Data Analysis - Udacity in progress** | 
 **Tableau for Data Visualization - DataCamp in progress**
 
 
